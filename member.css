@@ -1,0 +1,20 @@
+.banner {
+    background: url("https://cdn.discordapp.com/attachments/857994609800249394/1035360606527701012/bg...jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.tim img{
+    width: 250px;
+    border: 7px solid #cccc;
+}
+a.socialmedia img{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    
+    
+    
+}

@@ -1,0 +1,24 @@
+.banner {
+    background: url("https://cdn.discordapp.com/attachments/857994609800249394/1035091014966313020/bgg.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.socialmedia img {
+    height: auto;
+    max-height: 50px;
+}
+
+.contact {
+    background: url(bg.JPG) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+body {
+    text-align: justify;
+}
